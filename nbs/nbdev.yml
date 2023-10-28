@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "simple-ddpm"
+  site-url: "https://sizhky.github.io/simple-ddpm"
+  description: "code demonstrating diffusion on simple images"
+  repo-branch: dev
+  repo-url: "https://github.com/sizhky/simple-ddpm"

@@ -1,0 +1,17 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 00_core.ipynb
+      - section: config
+        contents:
+          - 00_config/00.00_cifar.ipynb
+      - section: data
+        contents:
+          - 01_data/01.00_cifar.ipynb
+      - section: model
+        contents:
+          - 02_model/02.00_ddpm.ipynb
+      - section: train
+        contents:
+          - 03_train/03.00_train_cifar.ipynb
